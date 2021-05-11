@@ -1,8 +1,3 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Créer un point de restauration AVANT de lancer le script si vous n'êtes pas sur une Fresh Install --> https://youtu.be/TfzxDfaBnF8
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-			
-
 A LIRE :
 
 1 - Extraire les fichiers dans un dossier sur votre bureau
@@ -35,20 +30,4 @@ mais c'est vraiment giga rare d'en avoir besoin)
 
 5 - Appuyez sur Entrée ( Le PC reboot aussitôt , et quand je dis aussitôt, c'est vraiment aussitôt ;) )
 		--> Pendant le reboot ou le boot de votre PC, vous aurez possiblement des messages inscrits sur les pages de Windows que vous n'aurez jamais vu avant, c'est NORMAL, c'est un mode du nouveau script, j'en parlerais plus en détail en vidéo :)  (mais c'est trop coooool)
-	
-
-
-	
-6 - Profitez :)
-
-
-
-
-Liens des tutos adaptés:
-https://www.youtube.com/playlist?list=PLpHHP0oFkZd_FBCy548vXsmrv-8d-nY2Z
-
-
-
-
-Mon Twitter :
-https://twitter.com/AngA_TV			
+		
